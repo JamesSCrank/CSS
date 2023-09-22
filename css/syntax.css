@@ -1,0 +1,17 @@
+html {
+    background-color:black;
+}
+
+body{
+    font-family: "Hoefler Text", Cambria, "Times New Roman", serif;
+}
+
+main {
+    font-size: 12px;
+    color:aqua
+}
+
+p {
+    font-size: 18px;
+    color: blue;
+}
